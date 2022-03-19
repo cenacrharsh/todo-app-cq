@@ -1,3 +1,3 @@
-# [ToDo App](https://cenacrharsh.github.io/todo-app-cq/)
+# ✨ [ToDo App](https://cenacrharsh.github.io/todo-app-cq/)
 
 ![ss](./ss.png)
